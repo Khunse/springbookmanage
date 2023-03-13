@@ -1,0 +1,1 @@
+insert into book values(1,'au',5,11);
